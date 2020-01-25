@@ -30,5 +30,5 @@ Press button again to disable.
 
 Notes:
 This application uses the api https://api.myip.com/ to monitor your current ip address.
-Every 5 seconds, it will poll for your api.
+Every 5 seconds, it will poll for your ip.
 If your ip address ever changes from it's value when you first presssed the start button, it will kill your process.
